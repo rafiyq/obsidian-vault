@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="819.08" height="156.53" version="1.1" viewBox="0 0 819.08 156.53" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath51">
+   <path transform="matrix(1 0 0 -1 -59.844 204.72)" d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath53">
+   <path d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath55">
+   <path transform="matrix(0 1 1 0 -204.63 -123.18)" d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath57">
+   <path d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath58">
+   <path transform="matrix(1 0 0 -1 -62.495 292.11)" d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath59">
+   <path transform="matrix(1 0 0 -1 -67.554 276.11)" d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath60">
+   <path transform="matrix(1 0 0 -1 -94.791 260.11)" d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath62">
+   <path transform="matrix(0 1 1 0 -204.63 -452.78)" d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath64">
+   <path d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath65">
+   <path transform="matrix(1 0 0 -1 -392.46 292.11)" d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath66">
+   <path transform="matrix(1 0 0 -1 -398.67 276.11)" d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath67">
+   <path transform="matrix(1 0 0 -1 -399.47 260.11)" d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath69">
+   <path transform="matrix(0 1 1 0 -204.63 -617.58)" d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath71">
+   <path d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath72">
+   <path transform="matrix(1 0 0 -1 -564.26 284.45)" d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath73">
+   <path transform="matrix(1 0 0 -1 -559.99 268.45)" d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath75">
+   <path transform="matrix(1 0 0 -1 -256.09 275.45)" d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath76">
+   <path transform="matrix(1 0 0 -1 -237.8 259.45)" d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath78">
+   <path transform="matrix(0 1 1 0 -205.67 -287.98)" d="m0 0h720v405h-720z"/>
+  </clipPath>
+  <clipPath id="clipPath80">
+   <path d="m0 0h720v405h-720z"/>
+  </clipPath>
+ </defs>
+ <path transform="matrix(1.3333 0 0 1.3333 4.0735e-7 151.33)" d="m0 0h593.26" clip-path="url(#clipPath51)" fill="none" stroke="#585858" stroke-linejoin="round" stroke-width="1.5"/>
+ <path transform="matrix(1.3333 0 0 -1.3333 -79.792 424.29)" d="m652.36 200.82 7.8 3.9-7.8 3.9z" clip-path="url(#clipPath53)" fill="#585858"/>
+ <path transform="matrix(0 -1.3333 1.3333 0 84.444 151.45)" d="m0 0h35.534" clip-path="url(#clipPath55)" fill="none" stroke="#525252" stroke-linejoin="round" stroke-width="1.5"/>
+ <path transform="matrix(1.3333 0 0 -1.3333 -79.792 424.29)" d="m119.93 242.66c0 1.795 1.455 3.25 3.25 3.25s3.25-1.455 3.25-3.25-1.455-3.25-3.25-3.25-3.25 1.455-3.25 3.25z" clip-path="url(#clipPath57)" fill="#525252"/>
+ <text transform="matrix(1.3333 0 0 1.3333 3.5344 34.816)" clip-path="url(#clipPath58)" xml:space="preserve"><tspan x="0" y="0" fill="#525252" font-family="Arial" font-size="14px">Software engineers </tspan></text>
+ <text transform="matrix(1.3333 0 0 1.3333 10.279 56.15)" clip-path="url(#clipPath59)" xml:space="preserve"><tspan x="0" y="0" fill="#525252" font-family="Arial" font-size="14px">occasionally dealt </tspan></text>
+ <text transform="matrix(1.3333 0 0 1.3333 46.596 77.483)" clip-path="url(#clipPath60)" xml:space="preserve"><tspan x="0" y="0" fill="#525252" font-family="Arial" font-size="14px">with data</tspan></text>
+ <path transform="matrix(0 -1.3333 1.3333 0 523.91 151.45)" d="m0 0h35.534" clip-path="url(#clipPath62)" fill="none" stroke="#525252" stroke-linejoin="round" stroke-width="1.5"/>
+ <path transform="matrix(1.3333 0 0 -1.3333 -79.792 424.29)" d="m449.52 242.66c0 1.795 1.455 3.25 3.25 3.25s3.25-1.455 3.25-3.25-1.455-3.25-3.25-3.25-3.25 1.455-3.25 3.25z" clip-path="url(#clipPath64)" fill="#525252"/>
+ <text transform="matrix(1.3333 0 0 1.3333 443.49 34.816)" clip-path="url(#clipPath65)" xml:space="preserve"><tspan x="0" y="0" fill="#525252" font-family="Arial" font-size="14px">Software engineers </tspan></text>
+ <text transform="matrix(1.3333 0 0 1.3333 451.77 56.15)" clip-path="url(#clipPath66)" xml:space="preserve"><tspan x="0" y="0" fill="#525252" font-family="Arial" font-size="14px">began doing data </tspan></text>
+ <text transform="matrix(1.3333 0 0 1.3333 452.83 77.483)" clip-path="url(#clipPath67)" xml:space="preserve"><tspan x="0" y="0" fill="#525252" font-family="Arial" font-size="14px">engineering work</tspan></text>
+ <path transform="matrix(0 -1.3333 1.3333 0 743.64 151.45)" d="m0 0h35.534" clip-path="url(#clipPath69)" fill="none" stroke="#525252" stroke-linejoin="round" stroke-width="1.5"/>
+ <path transform="matrix(1.3333 0 0 -1.3333 -79.792 424.29)" d="m614.32 242.66c0 1.795 1.455 3.25 3.25 3.25s3.25-1.455 3.25-3.25-1.455-3.25-3.25-3.25-3.25 1.455-3.25 3.25z" clip-path="url(#clipPath71)" fill="#525252"/>
+ <text transform="matrix(1.3333 0 0 1.3333 672.55 45.026)" clip-path="url(#clipPath72)" xml:space="preserve"><tspan x="0" y="0" fill="#525252" font-family="Arial" font-size="14px">Data engineering </tspan></text>
+ <text transform="matrix(1.3333 0 0 1.3333 666.85 66.359)" clip-path="url(#clipPath73)" xml:space="preserve"><tspan x="0" y="0" fill="#525252" font-family="Arial" font-size="14px">emerged as a field</tspan></text>
+ <path d="m325.55 9.6141-9.6141-9.6141h-26.929l-10.294 10.294 22.507 30.347 0.99352 1.3392 1.0064-1.327 23.017-30.352zm-14.786 1.9024-8.5201 25.082-8.2011-25.082zm-14.89-2.2289 6.597-6.5973 6.5973 6.5973zm20.079-6.1184 6.1184 6.1184h-8.1965zm-2.034-0.94057-2.2204 6.5367-6.5366-6.5367zm-14.138 0-6.613 6.613-2.1622-6.613zm-10.807 0.95699 1.9952 6.102h-8.0969zm-6.5781 8.3308h9.3022l7.3346 22.432zm23.095 22.454 7.6273-22.454h9.4006z" clip-rule="evenodd" fill="#00f" stroke-linejoin="round" stroke-miterlimit="2" stroke-width=".13578"/>
+ <text transform="matrix(1.3333 0 0 1.3333 261.66 57.027)" clip-path="url(#clipPath75)" xml:space="preserve"><tspan x="0" y="0" fill="#525252" font-family="Arial" font-size="14px">Data has </tspan></text>
+ <text transform="matrix(1.3333 0 0 1.3333 237.28 78.36)" clip-path="url(#clipPath76)" xml:space="preserve"><tspan x="0" y="0" fill="#525252" font-family="Arial" font-size="14px">business value</tspan></text>
+ <path transform="matrix(0 -1.3333 1.3333 0 304.18 150.06)" d="m0 0h35.534" clip-path="url(#clipPath78)" fill="none" stroke="#525252" stroke-linejoin="round" stroke-width="1.5"/>
+ <path transform="matrix(1.3333 0 0 -1.3333 -79.792 424.29)" d="m284.73 243.7c0 1.795 1.455 3.25 3.25 3.25s3.25-1.455 3.25-3.25-1.455-3.25-3.25-3.25-3.25 1.455-3.25 3.25z" clip-path="url(#clipPath80)" fill="#525252"/>
+</svg>

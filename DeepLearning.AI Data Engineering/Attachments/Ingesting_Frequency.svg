@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="807.47" height="128.36" version="1.1" viewBox="0 0 807.47 128.36" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter46" x="-.058004" y="-.12108" width="1.116" height="1.2735" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" in="SourceGraphic" result="flood"/>
+   <feGaussianBlur in="SourceGraphic" result="blur" stdDeviation="2.000000"/>
+   <feOffset dx="0.000000" dy="1.500000" in="blur" result="offset"/>
+   <feComposite in="flood" in2="offset" operator="in" result="comp1"/>
+   <feComposite in="comp1" in2="comp1" operator="atop" result="comp2"/>
+  </filter>
+  <filter id="filter50" x="-.0080537" y="-.36364" width="1.0161" height="1.8409" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" in="SourceGraphic" result="flood"/>
+   <feGaussianBlur in="SourceGraphic" result="blur" stdDeviation="2.000000"/>
+   <feOffset dx="0.000000" dy="1.500000" in="blur" result="offset"/>
+   <feComposite in="flood" in2="offset" operator="in" result="comp1"/>
+   <feComposite in="comp1" in2="comp1" operator="atop" result="comp2"/>
+  </filter>
+  <filter id="filter52" x="-.058004" y="-.12108" width="1.116" height="1.2735" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" in="SourceGraphic" result="flood"/>
+   <feGaussianBlur in="SourceGraphic" result="blur" stdDeviation="2.000000"/>
+   <feOffset dx="0.000000" dy="1.500000" in="blur" result="offset"/>
+   <feComposite in="flood" in2="offset" operator="in" result="comp1"/>
+   <feComposite in="comp1" in2="comp1" operator="atop" result="comp2"/>
+  </filter>
+  <filter id="filter54" x="-.058004" y="-.12108" width="1.116" height="1.2735" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" in="SourceGraphic" result="flood"/>
+   <feGaussianBlur in="SourceGraphic" result="blur" stdDeviation="2.000000"/>
+   <feOffset dx="0.000000" dy="1.500000" in="blur" result="offset"/>
+   <feComposite in="flood" in2="offset" operator="in" result="comp1"/>
+   <feComposite in="comp1" in2="comp1" operator="atop" result="comp2"/>
+  </filter>
+ </defs>
+ <path transform="matrix(1.3333 0 0 1.3333 6.4007 86.617)" d="m582.8-6.5996v5.0991h-582.8v3h582.8v5.1006l13.201-6.6006z" color="#000000" fill="#346ac3" filter="url(#filter50)" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path d="m6.4007 86.617h779.07" fill="none" stroke="#346ac3" stroke-linejoin="round" stroke-width="4"/>
+ <g>
+  <path d="m783.47 95.417 17.6-8.8-17.6-8.8z" fill="#346ac3"/>
+  <text x="51.853718" y="123.87394" fill="#7aa116" font-size="16px" stroke-width="1.3333" xml:space="preserve"><tspan x="51.853718 66.083046 77.948647 95.719315 100.45958 107.56358 120.59398 127.69798 139.56358 151.42918 163.29478 175.16039 187.02599" y="123.87394" fill="#7aa116" font-family="Arial" font-size="21.333px" font-style="italic" stroke-width="1.3333">Semi-Frequent</tspan></text>
+  <path transform="matrix(1.3333 0 0 1.3333 55.734 7.7339)" d="m22.93 0h54.14c6.7288 0 10.766 0 13.458 1.1237 3.88 1.4122 6.9365 4.4687 8.3487 8.3487 1.1237 2.6915 1.1237 6.7288 1.1237 13.458v2.0447c0 6.7288 0 10.766-1.1237 13.458-1.4122 3.88-4.4687 6.9365-8.3487 8.3487-2.6915 1.1237-6.7288 1.1237-13.458 1.1237h-54.14c-6.7288 0-10.766 0-13.458-1.1237-3.88-1.4122-6.9365-4.4687-8.3487-8.3487-1.1237-2.6915-1.1237-6.7288-1.1237-13.458v-2.0447c0-6.7288 0-10.766 1.1237-13.458 1.4122-3.88 4.4687-6.9365 8.3487-8.3487 2.6915-1.1237 6.7288-1.1237 13.458-1.1237z" fill="#a0c1f9" filter="url(#filter46)" stroke="#4185f3" stroke-linejoin="round" stroke-width="2"/>
+  <path d="m86.307 7.7339h72.187c8.9717 0 14.355 0 17.943 1.4982 5.1733 1.883 9.2487 5.9583 11.132 11.132 1.4983 3.5887 1.4983 8.9717 1.4983 17.943v2.7263c0 8.9717 0 14.355-1.4983 17.943-1.8829 5.1733-5.9583 9.2487-11.132 11.132-3.5887 1.4983-8.9717 1.4983-17.943 1.4983h-72.187c-8.9717 0-14.355 0-17.943-1.4983-5.1734-1.8829-9.2487-5.9583-11.132-11.132-1.4982-3.5887-1.4982-8.9717-1.4982-17.943v-2.7263c0-8.9717 0-14.355 1.4982-17.943 1.883-5.1734 5.9583-9.2487 11.132-11.132 3.5887-1.4982 8.9717-1.4982 17.943-1.4982z" fill="#a0c1f9" stroke="#4185f3" stroke-linejoin="round" stroke-width="2.6667"/>
+ </g>
+ <text x="95.325989" y="46.315266" font-size="16px" stroke-width="1.3333" xml:space="preserve"><tspan x="95.325989 109.55532 121.42092 127.34732 138.01398" y="46.315266" fill="#525252" font-family="Arial" font-size="21.333px" stroke-width="1.3333">Batch</tspan></text>
+ <path transform="matrix(1.3333 0 0 1.3333 337.07 9.3473)" d="m22.93 0h54.14c6.7288 0 10.766 0 13.458 1.1237 3.88 1.4122 6.9365 4.4687 8.3487 8.3487 1.1237 2.6915 1.1237 6.7288 1.1237 13.458v2.0447c0 6.7288 0 10.766-1.1237 13.458-1.4122 3.88-4.4687 6.9365-8.3487 8.3487-2.6915 1.1237-6.7288 1.1237-13.458 1.1237h-54.14c-6.7288 0-10.766 0-13.458-1.1237-3.88-1.4122-6.9365-4.4687-8.3487-8.3487-1.1237-2.6915-1.1237-6.7288-1.1237-13.458v-2.0447c0-6.7288 0-10.766 1.1237-13.458 1.4122-3.88 4.4687-6.9365 8.3487-8.3487 2.6915-1.1237 6.7288-1.1237 13.458-1.1237z" fill="#a0c1f9" filter="url(#filter52)" stroke="#4185f3" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m367.64 9.3473h72.187c8.9717 0 14.355 0 17.943 1.4982 5.1733 1.883 9.2487 5.9583 11.132 11.132 1.4983 3.5887 1.4983 8.9717 1.4983 17.943v2.7263c0 8.9717 0 14.355-1.4983 17.943-1.8829 5.1733-5.9583 9.2487-11.132 11.132-3.5887 1.4983-8.9717 1.4983-17.943 1.4983h-72.187c-8.9717 0-14.355 0-17.943-1.4983-5.1734-1.8829-9.2487-5.9583-11.132-11.132-1.4982-3.5887-1.4982-8.9717-1.4982-17.943v-2.7263c0-8.9717 0-14.355 1.4982-17.943 1.883-5.1734 5.9583-9.2487 11.132-11.132 3.5886-1.4982 8.9717-1.4982 17.943-1.4982z" fill="#a0c1f9" stroke="#4185f3" stroke-linejoin="round" stroke-width="2.6667"/>
+ <text x="348.21664" y="47.928604" font-size="16px" stroke-width="1.3333" xml:space="preserve"><tspan x="348.21664 365.98734 370.7276 381.39426 388.49826 400.36386 407.46786 419.33347 431.19907 437.12546 447.79211" y="47.928604" fill="#525252" font-family="Arial" font-size="21.333px" stroke-width="1.3333">Micro-batch</tspan></text>
+ <path transform="matrix(1.3333 0 0 1.3333 607.73 9.3473)" d="m22.93 0h54.14c6.7288 0 10.766 0 13.458 1.1237 3.88 1.4122 6.9365 4.4687 8.3487 8.3487 1.1237 2.6915 1.1237 6.7288 1.1237 13.458v2.0447c0 6.7288 0 10.766-1.1237 13.458-1.4122 3.88-4.4687 6.9365-8.3487 8.3487-2.6915 1.1237-6.7288 1.1237-13.458 1.1237h-54.14c-6.7288 0-10.766 0-13.458-1.1237-3.88-1.4122-6.9365-4.4687-8.3487-8.3487-1.1237-2.6915-1.1237-6.7288-1.1237-13.458v-2.0447c0-6.7288 0-10.766 1.1237-13.458 1.4122-3.88 4.4687-6.9365 8.3487-8.3487 2.6915-1.1237 6.7288-1.1237 13.458-1.1237z" fill="#a0c1f9" filter="url(#filter54)" stroke="#4185f3" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m638.31 9.3473h72.187c8.9717 0 14.355 0 17.943 1.4982 5.1733 1.883 9.2487 5.9583 11.132 11.132 1.4983 3.5887 1.4983 8.9717 1.4983 17.943v2.7263c0 8.9717 0 14.355-1.4983 17.943-1.8829 5.1733-5.9583 9.2487-11.132 11.132-3.5887 1.4983-8.9717 1.4983-17.943 1.4983h-72.187c-8.9717 0-14.355 0-17.943-1.4983-5.1734-1.8829-9.2487-5.9583-11.132-11.132-1.4982-3.5887-1.4982-8.9717-1.4982-17.943v-2.7263c0-8.9717 0-14.355 1.4982-17.943 1.883-5.1734 5.9583-9.2487 11.132-11.132 3.5886-1.4982 8.9717-1.4982 17.943-1.4982z" fill="#a0c1f9" stroke="#4185f3" stroke-linejoin="round" stroke-width="2.6667"/>
+ <g font-size="16px" stroke-width="1.3333">
+  <text x="625.98999" y="48.128605" xml:space="preserve"><tspan x="625.98999 640.2193 646.14569 653.24969 665.1153 676.9809 694.75159 699.49182 711.35742" y="48.128605" fill="#525252" font-family="Arial" font-size="21.333px" stroke-width="1.3333">Streaming</tspan></text>
+  <text x="361.04199" y="123.87394" fill="#ff9200" xml:space="preserve"><tspan x="361.04199 374.07239 381.17639 393.04199 404.90759 416.77319 428.63879 440.50439" y="123.87394" fill="#ff9200" font-family="Arial" font-size="21.333px" font-style="italic" stroke-width="1.3333">Frequent</tspan></text>
+  <text x="610.76068" y="123.87394" fill="#ff7c78" xml:space="preserve"><tspan x="610.76068 624.19855 636.06415 643.16809 653.83478 659.76117 665.68756 672.79156 684.65717 696.52277 708.38837 720.25397 732.11957" y="123.87394" fill="#ff7c78" font-family="Arial" font-size="21.333px" font-style="italic" stroke-width="1.3333">Very frequent</tspan></text>
+ </g>
+</svg>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="936.25" height="161.25" overflow="hidden" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect width="936.25" height="161.25" fill="#fff" stroke-width=".53965"/>
+ <rect x="13.75" y="14.25" width="419" height="99" fill="none" stroke="#a7a7a7" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.3333"/>
+ <g fill="#525252" font-family="'Courier New', 'Courier New_MSFontService', sans-serif" font-size="13px" font-weight="400">
+  <text x="18.5508" y="28.75">{</text>
+  <text x="34.5508" y="43.75">“user id”:</text>
+  <text x="122.55099" y="43.75">67945,</text>
+  <text x="34.5508" y="59.75">“action”: “user added a product x to their</text>
+  <text x="378.55099" y="59.75">cart”,</text>
+  <text x="34.5508" y="73.75">“status”:</text>
+  <text x="114.55099" y="73.75">“success”,</text>
+  <text x="34.5508" y="87.75">“time</text>
+  <text x="74.550797" y="87.75">-</text>
+  <text x="82.551003" y="87.75">stamp”: 01</text>
+  <text x="162.55099" y="87.75">-</text>
+  <text x="170.55099" y="87.75">01</text>
+  <text x="186.55099" y="87.75">-</text>
+  <text x="194.55099" y="87.75">2025:10.30</text>
+  <text x="18.5508" y="102.75">}</text>
+ </g>
+ <g fill="#909090" font-family="Arial, Arial_MSFontService, sans-serif" font-size="16px" font-weight="400">
+  <text x="29.282902" y="137.75">[00101011</text>
+  <text x="105.963" y="137.75">11000101</text>
+  <text x="178.276" y="137.75">11001001</text>
+  <text x="250.59" y="137.75">11000101</text>
+  <text x="322.97" y="137.75">110001001]</text>
+ </g>
+ <g fill="#ddd" fill-opacity=".50196" fill-rule="evenodd">
+  <path d="m442.25 13.083h59.067v33.8h-59.067z"/>
+  <path d="m501.32 13.083h218.8v33.8h-218.8z"/>
+  <path d="m720.12 13.083h76.133v33.8h-76.133z"/>
+  <path d="m796.25 13.083h125.33v33.8h-125.33z"/>
+  <path d="m442.25 46.883h59.067v34h-59.067z"/>
+  <path d="m501.32 46.883h218.8v34h-218.8z"/>
+  <path d="m720.12 46.883h76.133v34h-76.133z"/>
+  <path d="m796.25 46.883h125.33v34h-125.33z"/>
+  <path d="m442.25 80.883h59.067v33.734h-59.067z"/>
+  <path d="m501.32 80.883h218.8v33.734h-218.8z"/>
+  <path d="m720.12 80.883h76.133v33.734h-76.133z"/>
+  <path d="m796.25 80.883h125.33v33.734h-125.33z"/>
+  <path d="m442.25 114.62h59.067v33.533h-59.067z"/>
+  <path d="m501.32 114.62h218.8v33.533h-218.8z"/>
+  <path d="m720.12 114.62h76.133v33.533h-76.133z"/>
+  <path d="m796.25 114.62h125.33v33.533h-125.33z"/>
+ </g>
+ <g fill="none" fill-rule="evenodd" stroke="#fff" stroke-linejoin="round" stroke-miterlimit="10">
+  <g stroke-width="1.3333">
+   <path d="m501.32 12.417v136.4"/>
+   <path d="m720.12 12.417v136.4"/>
+   <path d="m796.25 12.417v136.4"/>
+   <path d="m441.58 46.883h480.67"/>
+  </g>
+  <path d="m441.58 80.883h480.67" stroke-width="2"/>
+  <path d="m441.58 114.62h480.67" stroke-width="2"/>
+  <g stroke-width="1.3333">
+   <path d="m442.25 12.417v136.4"/>
+   <path d="m921.58 12.417v136.4"/>
+   <path d="m441.58 13.083h480.67"/>
+   <path d="m441.58 148.15h480.67"/>
+  </g>
+ </g>
+ <g fill="#525252" font-family="Arial, Arial_MSFontService, sans-serif" font-size="13px">
+  <g font-weight="700">
+   <text x="826.26703" y="33.75">timestamp</text>
+   <text x="739" y="33.75">status</text>
+   <text x="591.53302" y="33.75">action</text>
+   <text x="450.633" y="33.75">user</text>
+   <text x="482.03299" y="33.75">id</text>
+  </g>
+  <g font-weight="400">
+   <text x="807.41699" y="67.75">01</text>
+   <text x="822.08301" y="67.75">-</text>
+   <text x="826.58301" y="67.75">01</text>
+   <text x="841.25" y="67.75">-</text>
+   <text x="845.75" y="67.75">2025:10.30</text>
+   <text x="734.65002" y="67.75">success</text>
+  </g>
+ </g>
+ <g transform="translate(-23.75,-266.25)">
+  <text transform="translate(532.07 334)" fill="#525252" font-family="Arial, Arial_MSFontService, sans-serif" font-size="13px" font-weight="400">user</text>
+ </g>
+ <g fill="#525252" font-family="Arial, Arial_MSFontService, sans-serif" font-size="13px" font-weight="400">
+  <text x="537.883" y="67.75">added</text>
+  <text x="578.28302" y="67.75">a</text>
+  <text x="589.41699" y="67.75">product x</text>
+  <text x="647.71698" y="67.75">to</text>
+  <text x="662.45001" y="67.75">their</text>
+ </g>
+ <g transform="translate(-23.75,-266.25)">
+  <text transform="translate(715.77 334)" fill="#525252" font-family="Arial, Arial_MSFontService, sans-serif" font-size="13px" font-weight="400">cart</text>
+ </g>
+ <g fill="#525252" font-family="Arial, Arial_MSFontService, sans-serif" font-size="13px" font-weight="400">
+  <text x="453.78299" y="67.75">67945</text>
+  <text x="807.41699" y="101.75">01</text>
+  <text x="822.08301" y="101.75">-</text>
+  <text x="826.58301" y="101.75">01</text>
+  <text x="841.25" y="101.75">-</text>
+  <text x="845.75" y="101.75">2025:10.32</text>
+  <text x="750.216" y="101.75">fail</text>
+  <text x="518.71698" y="94.75">invalid values typed for</text>
+  <text x="657.21698" y="94.75">product</text>
+  <text x="587.31702" y="108.75">quantity</text>
+  <text x="453.78299" y="101.75">38910</text>
+  <text x="807.41699" y="135.75">01</text>
+  <text x="822.08301" y="135.75">-</text>
+  <text x="826.58301" y="135.75">01</text>
+  <text x="841.25" y="135.75">-</text>
+  <text x="845.75" y="135.75">2025:10.38</text>
+  <text x="750.216" y="135.75">fail</text>
+  <text x="537.98297" y="135.75">customer table</text>
+  <text x="628.65002" y="135.75">corrupted</text>
+  <text x="453.78299" y="135.75">17462</text>
+ </g>
+</svg>
